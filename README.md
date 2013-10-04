@@ -1,4 +1,4 @@
 KnowledgeBase
 =============
 
-Presenations and other knowledge to share.
+Presentations and other knowledge to share.
